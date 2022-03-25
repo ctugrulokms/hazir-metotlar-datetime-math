@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/bin/Debug/net6.0/hazir-metotlar-datetime-math
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/bin/Debug/net6.0/hazir-metotlar-datetime-math.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/bin/Debug/net6.0/hazir-metotlar-datetime-math.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/bin/Debug/net6.0/hazir-metotlar-datetime-math.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/bin/Debug/net6.0/ref/hazir-metotlar-datetime-math.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/bin/Debug/net6.0/hazir-metotlar-datetime-math.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/ref/hazir-metotlar-datetime-math.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/hazir-metotlar-datetime-math/obj/Debug/net6.0/hazir-metotlar-datetime-math.genruntimeconfig.cache
